@@ -8,7 +8,10 @@ const Footer = () => {
         <div className="container">
         <p className="m-0 text-center text-white">           
             <Link to={"https://65eed58eead08fa78a4f025d.mockapi.io/Books"}>
-             Pretty print
+             Pretty print Books
+            </Link>{" "}
+            <Link to={"https://65eed58eead08fa78a4f025d.mockapi.io/authors"}>
+             Pretty print Authors
             </Link>{" "}
             
           </p>
