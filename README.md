@@ -40,7 +40,6 @@ Form Validation
 Github---[https://github.com/sarakhi20/React-task7.git]
 
 
-
-##🔗 Netlify Deployed URL
+## 🔗 Netlify Deployed URL
 
  Check out My Formik TASK Here👉🏻--[https://react-task7formik.netlify.app/]
